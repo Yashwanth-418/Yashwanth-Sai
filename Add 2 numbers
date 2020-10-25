@@ -1,0 +1,9 @@
+c=a+b
+a=input()
+b=input()
+print(c)
+
+#output
+#10
+#20
+#30
